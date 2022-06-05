@@ -5,6 +5,9 @@ body {
   height:100vh;
   background-color: #073b4c;
 flex-direction: column;
+  -moz-user-select: none; 
+-khtml-user-select: none; 
+user-select: none;
 }
 
 
